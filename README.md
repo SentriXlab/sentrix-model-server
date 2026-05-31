@@ -35,9 +35,11 @@ Diagnosis Result
 | Train Samples | 1,920 |
 | Test Samples | 480 |
 | Feature Count | 55 (11 raw features × 5 statistics) |
-| Detection AUROC | 0.7648 |
-| Classification Macro F1 | 0.7578 |
-| Anomaly Threshold | 0.2716 (NORMAL 80th percentile) |
+| Detection AUROC | 0.9437 |
+| Detection Recall | 0.9333 |
+| Classification Accuracy | 0.8479 |
+| Classification Macro F1 | 0.7938 |
+| Anomaly Threshold | 0.2590 (NORMAL 80th percentile) |
 | Schema Version | v1 |
 
 ## Fault Types
